@@ -49,19 +49,6 @@ foreach ($parsearray as $getpair => $getvalue) {
         <span><?php print $whoami; ?></span>
       </div>
     </a>
-    <!-- <nav>
-      <ul class="flex gap-x-3 font-medium text-gray-200">
-        <li class="hover:text-white">
-          I recommend <a href="<?php print $printlink; ?>" target="_blank"><?php print $printname; ?></a>
-        </li>
-        <li class="hover:text-white">
-          <a href="#">GitHub</a>
-        </li>
-        <li class="hover:text-white">
-          <a href="#">Twitter</a>
-        </li>
-      </ul>
-    </nav> -->
   </div>
 </div>
 
