@@ -1,4 +1,4 @@
-# Parked-Random-Sponsor
+# Parked Random Sponsor
 
 The Parked Random Sponsor is a project for parked domains. My goal is to create one centralized location for all my outgoing links, such as portfolio links, social links, and even affiliate links. The gurt.co domain, since it's short, is that central location. 
 
