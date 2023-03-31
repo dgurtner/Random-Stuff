@@ -1,4 +1,8 @@
 <!doctype html>
+<html><head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <?php
 
@@ -7,15 +11,11 @@ $whoami = str_replace('www.','',$thewebsite);
 
 ?>
 
-<html><head>
-
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome to <?php print $whoami; ?></title>
-  <meta name="description" content="Welcome to <?php print $whoami; ?>. Since it's not ready yet, take a look at one of my recommendations. I don't really have much to say here since the website is still being built but Google wants me to have something here in this space for you to look at as you scroll through your search results. I mean, it's actually hard to believe that you would find this result in the first place since Google doesn't even have anything to index. There, that should do it. The space for preview text should be sufficiently filled up now.">
-  <script src="tailwind.3.2.6.js"></script>
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <link rel="stylesheet" href="astro.css">
+<title>Welcome to <?php print $whoami; ?></title>
+<meta name="description" content="Welcome to <?php print $whoami; ?>. Since it's not ready yet, take a look at one of my recommendations. I don't really have much to say here since the website is still being built but Google wants me to have something here in this space for you to look at as you scroll through your search results. I mean, it's actually hard to believe that you would find this result in the first place since Google doesn't even have anything to index. There, that should do it. The space for preview text should be sufficiently filled up now.">
+<script src="tailwind.3.2.6.js"></script>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="astro.css">
 
 </head><body class="bg-slate-900 text-gray-100">
 
